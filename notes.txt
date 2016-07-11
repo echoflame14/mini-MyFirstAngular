@@ -1,0 +1,22 @@
+ANGULAR
+
+	Is an MVC
+		MVC stands for
+
+			M -- model
+				model is your data
+				services (angular thing)
+
+
+			V -- View
+				html
+				css
+				directives (angular thing)
+					most like jquery in angular
+						jqlite is included in angular
+
+			v -- Viewmodel
+				makes it so that your controller doesent have to manipulate the dom
+
+			C -- Controller
+				is like a function is js -- it manipulates and gets data ready for view
