@@ -7,16 +7,25 @@ ANGULAR
 				model is your data
 				services (angular thing)
 
-
 			V -- View
 				html
 				css
-				directives (angular thing)
+				directives (angular thing) WTF is a Directive???!!
 					most like jquery in angular
 						jqlite is included in angular
 
-			v -- Viewmodel
+			v -- Viewmodel -- Is AN OBJECT
 				makes it so that your controller doesent have to manipulate the dom
 
-			C -- Controller
+			C -- Controller  WTF is a Controller????
 				is like a function is js -- it manipulates and gets data ready for view
+
+
+	$scope -- is the viewmodel
+		will be used a lot
+
+	POJO -- stands for Plain Old javascript Objects
+
+	Two Way Binding
+		$scope.xxx = something that will update
+		
